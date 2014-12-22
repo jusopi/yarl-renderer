@@ -1,0 +1,27 @@
+{
+  "name": "yarl-renderer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jusopi/yarl-renderer.git"
+  },
+  "keywords": [
+    "rogue-like",
+    "rogue",
+    "renderer",
+    "javascript",
+    "js",
+    "npm"
+  ],
+  "author": "jusopi <jwopitz@gmail.com> (http://jwopitz.wordpress.com/)",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/jusopi/yarl-renderer/issues"
+  },
+  "homepage": "https://github.com/jusopi/yarl-renderer"
+}
